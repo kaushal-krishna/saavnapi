@@ -1,4 +1,5 @@
 # JioSaavn API
+## Original copy by Sumit Kolhe
 
 ![GitHub License](https://img.shields.io/github/license/sumitkolhe/jiosaavn-api)
 ![GitHub Release](https://img.shields.io/github/v/release/sumitkolhe/jiosaavn-api)
